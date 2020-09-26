@@ -3,3 +3,6 @@ dev_note.log
 # Private test files.
 beauty1.png
 beauty1_emboss.png
+
+# Ignore private scripts.
+who_is_ella.ipynb
