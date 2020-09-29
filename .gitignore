@@ -6,3 +6,7 @@ beauty1_emboss.png
 
 # Ignore private scripts.
 who_is_ella.ipynb
+
+# Ignore private directories.
+train/ella
+train/not_ella
