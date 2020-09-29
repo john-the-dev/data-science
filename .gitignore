@@ -10,3 +10,6 @@ who_is_ella.ipynb
 # Ignore private directories.
 train/ella
 train/not_ella
+
+# Igore the big file which can be downloaded from elsewhere.
+train/creditcard.csv
